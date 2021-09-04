@@ -1,0 +1,31 @@
+.header {
+    padding: 40px;
+    text-align: center;
+    background: red;
+    color: white;
+    font-size: 20px;
+}
+
+/* Three columns */
+.column {
+  float: left;
+  width: 30%;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+/* Two columns */
+.column {
+    float: center;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+body {background-color: white;}
+
+.card {
+    padding:20px;
+    background: blue;
+    color: white;
+    font-size: 10px;
+}
